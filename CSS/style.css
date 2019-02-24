@@ -1,0 +1,158 @@
+html{
+    font-family: "nanum Gothic";
+    background-color: #dbdbdb
+}
+
+
+
+header {
+  background-color: #d32f2f;
+  border: 3px solid #ff8a80;
+  position: fixed;
+  width: 99%;
+  z-index: 10;
+  padding: 
+}
+
+.banner {
+    text-align: center;
+    margin: 30px auto;
+    padding: 0 20px;
+    }
+
+.btext {
+    color: #E0E0E0;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 24px;
+    display: inline;
+    width: 20px;
+    padding: 50px
+    
+}
+
+.li:hover {
+    color: #9E9E9E;
+}
+
+a:link {
+   
+    text-decoration: none;
+}
+
+a:visited {
+    color: #000;
+}
+
+a:hover {
+    color: #9E9E9E
+}
+
+p {
+    color: black;
+    margin-top: 00px;
+    font-family: "quicksand";     
+    font-size: 20px;
+}
+
+
+h1 {
+    font-family: "assistant";
+    font-size: 30px;
+    padding-top: 100px;
+    text-align: center
+}
+
+h2 {
+    text-align: center
+}
+
+.about {
+    
+    text-align: center;
+}
+
+.projects-intro {
+    text-align: center;
+    width: 800px;
+    padding-left: 530px;
+}
+
+.aegis-img {
+   height: 600px;
+    padding-left: 860px;
+    padding-bottom: 100px;
+}
+
+.aegis {
+    text-align: center;
+}
+
+.description {
+   text-align: center;
+    width: 800px;
+    padding-left: 530px;
+}
+
+.fountain {
+    
+    width: 800px;
+    padding-left: 520px;
+    padding-bottom: 100px;
+}
+
+.ire {
+    height: 600px;
+    padding-left: 200px;
+}
+
+.light {
+    height: 600px;
+    padding-left: 500px;
+}
+
+.me {
+     text-align: center;
+    width: 1000px;
+    padding-left: 420px;
+}
+
+.hobbies {
+    text-align: center;
+    width: 1000px;
+    padding-left: 420px;
+}
+
+.exp {
+    text-align: center;
+    list-style-type: none
+}
+
+.projects-link {
+    color: #000;
+    font-weight: 500
+}
+
+.hs {
+    text-align: center;
+    width: 800px;
+    padding-left: 530px;
+    padding-bottom: 50px;
+}
+
+li {
+    font-family: "quicksand";
+    font-size: 20px;
+    list-style: none
+}
+
+.cert {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.ext {
+    width: 800px;
+    padding-left: 530px;
+    text-align: center;
+}
